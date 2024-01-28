@@ -2,10 +2,6 @@
   "name": "insulte_antoinelecon",
   "version": "1.0.0",
   "main": "bot.js",
-  "engines": {
-    "node": "5.0.0",
-    "npm": "4.6.1"
-    },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node bot.js"
