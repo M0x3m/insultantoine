@@ -47,4 +47,4 @@ if (message.author.id === targetUserId1 || message.author.id === targetUserId2 |
 }
 });
 
-client.login('token');
+client.login(process.env.TOKEN);
